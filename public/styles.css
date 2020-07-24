@@ -19,13 +19,16 @@ div.game {
   transform: translate(-50%, 0);
 }
 
-div.game a, div.game a:link, div.game a:visited {
+div.game a,
+div.game a:link,
+div.game a:visited {
   display: block;
   color: white;
 }
 
 div.game img {
   border: solid 1px gray;
+  background: white;
 }
 
 div.messsage {
