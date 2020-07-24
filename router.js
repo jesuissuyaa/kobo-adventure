@@ -1,6 +1,8 @@
 const express = require("express");
 const router = express.Router();
 const talk = require("./talk");
+let lostCounter = 0; // # of times user passed scene-lr1
+const MAX_LOST = 3; // # of times user can pass scene-lr1
 
 router.get("/gamestart", (req, res) => {
   res.clearFlags();
@@ -32,6 +34,10 @@ router.get("/pick", (req, res) => {
 });
 
 router.get("/lr1", (req, res) => {
+  lostCounter++;
+  if (lostCounter > MAX_LOST) {
+    res.redirect("/gameover");
+  }
   res.publicFileSend(`scene-lr1.html`);
   // talk(
   //   "ここはトランシルバニア。モンスターが持つという宝を求めて私はやってきた。"
@@ -47,6 +53,7 @@ router.get("/lr2", (req, res) => {
 
 router.get("/lr3", (req, res) => {
   res.publicFileSend(`scene-lr3.html`);
+
   // talk(
   //   "ここはトランシルバニア。モンスターが持つという宝を求めて私はやってきた。"
   // );
