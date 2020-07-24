@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="281px" height="296px" viewBox="-0.5 -0.5 281 296" content="&lt;mxfile host=&quot;46701687-8fc5-43c8-a9e6-da3ad4d83916&quot; modified=&quot;2020-07-24T10:51:26.099Z&quot; agent=&quot;5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.2 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;nT7aovghdVYZCSwn55ek&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7ZpNc9owEIZ/Dcd2LMuy4Zg4kF4605kcelaxsD01FiNEIP31lbH8IVkJIpEJTcqBwWtJWM+72pUWJjBeH+4Z3mTfaUKKie8lhwm8m/h+6IXivTI81YYARbUhZXlSm0BneMj/EGn0pHWXJ2SrNOSUFjzfqMYlLUuy5IoNM0b3arMVLdRv3eCUDAwPS1wMrT/zhGe1depHnf0bydOs+WYQzuo7a9w0ljPZZjih+54JzicwZpTy+tP6EJOiYtdwqfstnrnbPhgjJbfp4NcdHnGxk3OTz8WfmslyluMyra5u91nOycMGL6tbeyGtsGV8XYgrID4yyjHPaSkuv8w8YVjlRRHTgrLjSHCxmIfhnbBvOaO/SXOnpGU1+PDR5WweCePk0DPJqdwTuiacPYkm8q6PUN1F+tVUXu47kUIJPuvrg6QRS79I25E7dOKDpGcmCU+TZHRXJqRq752GqbEL5vFdHDzHbkVL3mu8Or4cMfVVpmDmDaAC30A1dAA1cAzVDE8lDW4QRLEjeFNPgddGsB48ZGAXOGCHTrMTHUTItFjZeLup4+gqP1SsrUAuFrco8tyAbD1MgozsOLpY2NE7+GCLbhBSXbCE/ld1TQetocezcSAlUjrgOf34PEEwdM+xcM6uBWeAHOH01KXeLv0+TFMWdwCzGePdabpyTS3/GDZEcCyU4GOh1EgadkGjkQyvhKS7JR6pMJEh+4wF81rSuQjco7C8aLi8luQzVu65oGNCi1WeCpgb+2m2BRD8qxnBe3n6U3Uf4xt8CQTGjQx6O4Fmwpc4sQg/8o4vk39Vr7ZHU+AB5jzSynbaxxqfMhxdDEiRC6IWRYl/mehBzcXvANiiQEHK5KaqOXYBbRDwFCImrC+CIolSrRxisjwkM1KIePqo1jhNdOQ3/KC5eJRe8c2oQjPAlu7Yksg+fq8iqQ2jlz44Zinhg35HZdo52ollUxH5JGJBLdC/Uiw9X+rjOBTPIj2OLl49HTW2Xomgp5SwVhSo48DxFLXYiX+25XiuWnqN3aE6Z23twblb+/5uwaCjtoFomz4v5BkHea1Wd7njUrOW/nt8l+bfGK70+tZo6wFalLMcaacuq6tXUpMgmr428UxfHMehlKOeilT1bKMeGjnoAaD/RhGZfvMBY0U+m3PSB0PuX5K4uOz+NFKvie6fN3D+Fw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 175 50 L 235 125 L 175 200 Z" fill="#ffe66d" stroke="none" transform="rotate(-90,205,125)" pointer-events="all"/>
+        <rect x="145" y="155" width="120" height="60" fill="#4ecdc4" stroke="none" pointer-events="all"/>
+        <rect x="200" y="175" width="50" height="40" fill="#1a535c" stroke="none" pointer-events="all"/>
+        <ellipse cx="65" cy="60" rx="25" ry="25" fill="#ffb570" stroke="none" pointer-events="all"/>
+        <rect x="52.5" y="7.5" width="25" height="10" fill="#ffb570" stroke="none" transform="rotate(-90,65,12.5)" pointer-events="all"/>
+        <rect x="52.5" y="105" width="25" height="10" fill="#ffb570" stroke="none" transform="rotate(-90,65,110)" pointer-events="all"/>
+        <rect x="20" y="85" width="20" height="10" fill="#ffb570" stroke="none" transform="rotate(-45,30,90)" pointer-events="all"/>
+        <rect x="100" y="50" width="30" height="10" fill="#ffb570" stroke="none" pointer-events="all"/>
+        <rect x="0" y="55" width="30" height="10" fill="#ffb570" stroke="none" pointer-events="all"/>
+        <rect x="90" y="20" width="20" height="10" fill="#ffb570" stroke="none" transform="rotate(-45,100,25)" pointer-events="all"/>
+        <rect x="90" y="85" width="20" height="10" fill="#ffb570" stroke="none" transform="rotate(29,100,90)" pointer-events="all"/>
+        <rect x="20" y="20" width="20" height="10" fill="#ffb570" stroke="none" transform="rotate(45,30,25)" pointer-events="all"/>
+        <ellipse cx="132.5" cy="262.5" rx="27.5" ry="27.5" fill="#ffffff" stroke="#000000" stroke-width="10" pointer-events="all"/>
+        <ellipse cx="222.5" cy="262.5" rx="27.5" ry="27.5" fill="#ffffff" stroke="#000000" stroke-width="10" pointer-events="all"/>
+        <path d="M 130 235 L 145 185" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 140 205 L 205 205" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 205 205 L 214.64 236.15" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 140 185 L 165 185" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="190" y="195" width="20" height="10" rx="1.5" ry="1.5" fill="#000000" stroke="#000000" stroke-width="10" pointer-events="all"/>
+        <path d="M 145 205 L 185 265" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 185 263 L 223 263" fill="none" stroke="#000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <ellipse cx="222.5" cy="262.5" rx="5" ry="5" fill="#000000" stroke="#000000" stroke-width="5" pointer-events="all"/>
+        <ellipse cx="132.5" cy="262.5" rx="5" ry="5" fill="#000000" stroke="#000000" stroke-width="5" pointer-events="all"/>
+    </g>
+</svg>
